@@ -8,11 +8,11 @@
 
 @font-face {
   font-family: 'elusive';
-  src: url('/https://dominicpaquette.github.io/SilenceBoreal/wp-content/themes/fluida/resources/fonts/elusive.eot');
-  src: url('/https://dominicpaquette.github.io/SilenceBoreal/wp-content/themes/fluida/resources/fonts/elusive.eot#iefix') format('embedded-opentype'),
-    url('/https://dominicpaquette.github.io/SilenceBoreal/wp-content/themes/fluida/resources/fonts/elusive.woff') format('woff'),
-    url('/https://dominicpaquette.github.io/SilenceBoreal/wp-content/themes/fluida/resources/fonts/elusive.ttf') format('truetype'),
-    url('/https://dominicpaquette.github.io/SilenceBoreal/wp-content/themes/fluida/resources/fonts/elusive.svg#elusive') format('svg');
+  src: url('./elusive.eot');
+  src: url('./elusive.eot#iefix') format('embedded-opentype'),
+    url('./elusive.woff') format('woff'),
+    url('./elusive.ttf') format('truetype'),
+    url('./elusive.svg#elusive') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -261,11 +261,11 @@
 /* Social Icons */
 @font-face {
     font-family: 'socials';
-    src: url('/https://dominicpaquette.github.io/SilenceBoreal/wp-content/themes/fluida/resources/fonts/socials.eot');
-    src: url('/https://dominicpaquette.github.io/SilenceBoreal/wp-content/themes/fluida/resources/fonts/socials.eot#iefix') format('embedded-opentype'),
-       url('/https://dominicpaquette.github.io/SilenceBoreal/wp-content/themes/fluida/resources/fonts/socials.woff') format('woff'),
-       url('/https://dominicpaquette.github.io/SilenceBoreal/wp-content/themes/fluida/resources/fonts/socials.ttf') format('truetype'),
-       url('/https://dominicpaquette.github.io/SilenceBoreal/wp-content/themes/fluida/resources/fonts/socials.svg#socials') format('svg');
+    src: url('./socials.eot');
+    src: url('./socials.eot#iefix') format('embedded-opentype'),
+       url('./socials.woff') format('woff'),
+       url('./socials.ttf') format('truetype'),
+       url('./socials.svg#socials') format('svg');
     font-weight: normal;
     font-style: normal;
 }
@@ -501,11 +501,11 @@
 /* Blocks font */
 @font-face {
     font-family: 'fluida-blocks';
-    src: url('/https://dominicpaquette.github.io/SilenceBoreal/wp-content/themes/fluida/resources/fonts/blocks.eot');
-    src: url('/https://dominicpaquette.github.io/SilenceBoreal/wp-content/themes/fluida/resources/fonts/blocks.eot#iefix') format('embedded-opentype'),
-        url('/https://dominicpaquette.github.io/SilenceBoreal/wp-content/themes/fluida/resources/fonts/blocks.woff') format('woff'),
-        url('/https://dominicpaquette.github.io/SilenceBoreal/wp-content/themes/fluida/resources/fonts/blocks.ttf') format('truetype'),
-        url('/https://dominicpaquette.github.io/SilenceBoreal/wp-content/themes/fluida/resources/fonts/blocks.svg#blocks') format('svg');
+    src: url('./blocks.eot');
+    src: url('./blocks.eot#iefix') format('embedded-opentype'),
+        url('./blocks.woff') format('woff'),
+        url('./blocks.ttf') format('truetype'),
+        url('./blocks.svg#blocks') format('svg');
     font-weight: normal;
     font-style: normal;
 }
